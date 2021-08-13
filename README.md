@@ -29,7 +29,7 @@
 
 <details>
 <summary>My projects</summary>
-[test]()
+
 </details>
 
 [websiteDc]: https://diaxmanpl.tk/dc
