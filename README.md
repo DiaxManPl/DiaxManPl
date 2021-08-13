@@ -5,6 +5,7 @@
 
 ---
 
+
 ## Connect with me:
 [<img src="static/discord.png" width="48" height="48">][websiteDc]
 [<img src="static/gmail.png" width="48" height="48">][websiteEmail]
@@ -26,8 +27,14 @@
 
 ---
 
+<details>
+<summary>My projects</summary>
+[test]()
+</details>
+
 [websiteDc]: https://diaxmanpl.tk/dc
 [websiteEmail]: https://diaxmanpl.tk/email
+[jejaApi]: https://npmjs.com/package/jeja-api
 
 
 
