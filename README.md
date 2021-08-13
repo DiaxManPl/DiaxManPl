@@ -12,7 +12,7 @@
 ---
 
 ## Languages:
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaxManPl&title_color=4ac8e8&bg_color=2d2a2e&text_color=fff&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaxManPl&title_color=4ac8e8&bg_color=2d2a2e&text_color=fff&hide_border=true)
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="24"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="24"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="24">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="24">
