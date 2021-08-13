@@ -7,34 +7,34 @@
 
 
 ## Connect with me:
-[<img src="static/discord.png" width="48" height="48">][websiteDc]
-[<img src="static/gmail.png" width="48" height="48">][websiteEmail]
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][websiteDc]
+&nbsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][websiteEmail]
 
 ---
 
 ## Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaxManPl&title_color=4ac8e8&bg_color=2d2a2e&text_color=fff&hide_border=true)
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="24"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="24"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="24">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="24">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="24"> -->
 
 ---
 
 ## Tools:
-<img src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" height="24">&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Windows_Terminal_Logo_256x256.png/150px-Windows_Terminal_Logo_256x256.png" height="24">&nbsp;
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+&nbsp;
+[![](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 
 ---
 
 <details>
-<summary>My projects</summary>
+<summary> Recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
+
 [websiteDc]: https://diaxmanpl.tk/dc
 [websiteEmail]: https://diaxmanpl.tk/email
-[jejaApi]: https://npmjs.com/package/jeja-api
 
 
 
