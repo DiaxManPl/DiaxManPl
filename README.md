@@ -26,7 +26,7 @@
 ---
 
 <details>
-<summary> Recent activity
+  <summary> Recent activity </summary>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#11](https://github.com/Jinzulen/DEmojiJS/pull/11) in [Jinzulen/DEmojiJS](https://github.com/Jinzulen/DEmojiJS)
 2. 🗣 Commented on [#6039](https://github.com/discordjs/discord.js/issues/6039) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
