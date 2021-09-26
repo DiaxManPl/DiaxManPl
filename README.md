@@ -27,11 +27,11 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1091](https://github.com/mwittrien/BetterDiscordAddons/pull/1091) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-2. 🗣 Commented on [#112](https://github.com/elBukkit/PreciousStones/issues/112) in [elBukkit/PreciousStones](https://github.com/elBukkit/PreciousStones)
-3. 💪 Opened PR [#11](https://github.com/Jinzulen/DEmojiJS/pull/11) in [Jinzulen/DEmojiJS](https://github.com/Jinzulen/DEmojiJS)
-4. 🗣 Commented on [#6039](https://github.com/discordjs/discord.js/issues/6039) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-5. 🗣 Commented on [#73](https://github.com/AngeloCore/discord-buttons/issues/73) in [AngeloCore/discord-buttons](https://github.com/AngeloCore/discord-buttons)
+1. ❗️ Opened issue [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
+2. 💪 Opened PR [#1091](https://github.com/mwittrien/BetterDiscordAddons/pull/1091) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+3. 🗣 Commented on [#112](https://github.com/elBukkit/PreciousStones/issues/112) in [elBukkit/PreciousStones](https://github.com/elBukkit/PreciousStones)
+4. 💪 Opened PR [#11](https://github.com/Jinzulen/DEmojiJS/pull/11) in [Jinzulen/DEmojiJS](https://github.com/Jinzulen/DEmojiJS)
+5. 🗣 Commented on [#6039](https://github.com/discordjs/discord.js/issues/6039) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 <!--END_SECTION:activity-->
 
 
