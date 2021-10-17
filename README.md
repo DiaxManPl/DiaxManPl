@@ -27,11 +27,11 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
+1. 🗣 Commented on [#133](https://github.com/FabricMC/fabric-example-mod/issues/133) in [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod)
 2. 🗣 Commented on [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
-3. ❗️ Opened issue [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
-4. 💪 Opened PR [#1091](https://github.com/mwittrien/BetterDiscordAddons/pull/1091) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-5. 🗣 Commented on [#112](https://github.com/elBukkit/PreciousStones/issues/112) in [elBukkit/PreciousStones](https://github.com/elBukkit/PreciousStones)
+3. 🗣 Commented on [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
+4. ❗️ Opened issue [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
+5. 💪 Opened PR [#1091](https://github.com/mwittrien/BetterDiscordAddons/pull/1091) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
 <!--END_SECTION:activity-->
 
 
