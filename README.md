@@ -31,11 +31,11 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/FabricMC/fabric-example-mod/issues/133) in [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod)
-2. 🗣 Commented on [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
+1. ❗️ Opened issue [#136](https://github.com/NFINIT-Development/AstroBlock/issues/136) in [NFINIT-Development/AstroBlock](https://github.com/NFINIT-Development/AstroBlock)
+2. 🗣 Commented on [#133](https://github.com/FabricMC/fabric-example-mod/issues/133) in [FabricMC/fabric-example-mod](https://github.com/FabricMC/fabric-example-mod)
 3. 🗣 Commented on [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
-4. ❗️ Opened issue [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
-5. 💪 Opened PR [#1091](https://github.com/mwittrien/BetterDiscordAddons/pull/1091) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+4. 🗣 Commented on [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
+5. ❗️ Opened issue [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
 <!--END_SECTION:activity-->
 
 [websiteDc]: https://diaxmanpl.tk/dc
