@@ -38,5 +38,5 @@
 5. 🗣 Commented on [#1](https://github.com/1728954833/project-manager/issues/1) in [1728954833/project-manager](https://github.com/1728954833/project-manager)
 <!--END_SECTION:activity-->
 
-[websiteDc]: https://diaxmanpl.tk/dc
+[websiteDc]: https://discord.com/users/692456194496790580
 [websiteEmail]: https://diaxmanpl.tk/email
